@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFXApplication_Jamie.jnlp">
+  <information>
+    <title>JavaFXApplication_Jamie</title>
+    <vendor>Jamie</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaFXApplication_Jamie.jar" size="18965" download="eager" />
+    <jar href="lib\AbsoluteLayout.jar" size="10195" download="eager" />
+    <jar href="lib\c3p0-0.9.1-pre6.jar" size="531005" download="eager" />
+    <jar href="lib\commons-beanutils-1.8.2.jar" size="231891" download="eager" />
+    <jar href="lib\commons-digester-1.7.jar" size="139966" download="eager" />
+    <jar href="lib\commons-digester-2.1.jar" size="196768" download="eager" />
+    <jar href="lib\commons-logging-1.1.jar" size="52915" download="eager" />
+    <jar href="lib\commons.collections-3.2.1.jar" size="582765" download="eager" />
+    <jar href="lib\groovy-all-1.7.5.jar" size="5482221" download="eager" />
+    <jar href="lib\itext-2.1.7.jar" size="1130070" download="eager" />
+    <jar href="lib\jasperreports-5.6.0.jar" size="4938322" download="eager" />
+    <jar href="lib\jboss-common-jdbc-wrapper-src.jar" size="35342" download="eager" />
+    <jar href="lib\jboss-common-jdbc-wrapper.jar" size="50184" download="eager" />
+    <jar href="lib\jcalendar-1.4.jar" size="165052" download="eager" />
+    <jar href="lib\mysql-connector-java-8.0.11.jar" size="2036609" download="eager" />
+    <jar href="lib\protobuf-java-2.6.0.jar" size="593799" download="eager" />
+    <jar href="lib\rs2xml.jar" size="171578" download="eager" />
+    <jar href="lib\slf4j-api-1.6.1.jar" size="25496" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="javafxapplication_jamie.JavaFXApplication_Jamie"  name="JavaFXApplication_Jamie" />
+  <update check="always"/>
+</jnlp>
